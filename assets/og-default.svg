@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Integrated IT Solution</title>
+  <desc id="desc">Brand graphic for Integrated IT Solution with tagline We Have Your Solutions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" rx="40" />
+  <g fill="#f8fafc">
+    <text x="600" y="290" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="700" font-size="72" text-anchor="middle">Integrated IT Solution</text>
+    <text x="600" y="360" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="500" font-size="40" text-anchor="middle" fill="#bfdbfe">We Have Your Solutions</text>
+  </g>
+  <rect x="320" y="420" width="560" height="6" fill="#f8fafc" opacity="0.3" rx="3" />
+</svg>
