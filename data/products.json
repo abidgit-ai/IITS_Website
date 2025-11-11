@@ -1,0 +1,430 @@
+{
+  "categories": [
+    {
+      "id": "laptops",
+      "name": "Laptops",
+      "description": "Business-ready notebooks for every workflow.",
+      "heroCopy": "Deploy mobile workstations that are tested, warrantied, and ready for deployment.",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+        "alt": "Laptop on desk",
+        "width": 900,
+        "height": 600
+      }
+    },
+    {
+      "id": "desktops",
+      "name": "Desktops",
+      "description": "Reliable towers for operations and creative teams.",
+      "heroCopy": "Upgrade to performance desktops that keep your teams productive all day.",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1580894894513-541e068a3ec4?auto=format&fit=crop&w=900&q=80",
+        "alt": "Desktop workstation setup",
+        "width": 900,
+        "height": 600
+      }
+    },
+    {
+      "id": "monitors",
+      "name": "Monitors",
+      "description": "Color-accurate displays for every workspace.",
+      "heroCopy": "From compact displays to ultra-wide panels, pick the view that suits your teams.",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+        "alt": "Dual monitors on desk",
+        "width": 900,
+        "height": 600
+      }
+    },
+    {
+      "id": "servers",
+      "name": "Servers",
+      "description": "Enterprise servers ready for virtualisation and storage.",
+      "heroCopy": "Deploy scalable servers with certified components and proactive support.",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1580894897170-dc73ccf89d6b?auto=format&fit=crop&w=900&q=80",
+        "alt": "Server racks",
+        "width": 900,
+        "height": 600
+      }
+    },
+    {
+      "id": "all-in-ones",
+      "name": "All-in-Ones",
+      "description": "Space-saving systems with everything built-in.",
+      "heroCopy": "Create clean, productive workspaces with integrated all-in-one PCs.",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?auto=format&fit=crop&w=900&q=80",
+        "alt": "All-in-one computer",
+        "width": 900,
+        "height": 600
+      }
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
+      "description": "Peripherals, docking, and everyday essentials.",
+      "heroCopy": "Everything you need to complete your setup, from keyboards to docking stations.",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=900&q=80",
+        "alt": "IT accessories on table",
+        "width": 900,
+        "height": 600
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": "hp-probook-450-g9",
+      "slug": "hp-probook-450-g9",
+      "name": "HP ProBook 450 G9",
+      "categoryId": "laptops",
+      "brand": "HP",
+      "condition": "Refurbished",
+      "badge": "Refurbished",
+      "price": 62999,
+      "currency": "INR",
+      "priceLabel": "Buy Now",
+      "availability": "In Stock",
+      "shortDescription": "15.6-inch business laptop with 12th Gen Intel Core performance and advanced security.",
+      "specs": [
+        "Intel Core i5-1240P",
+        "16GB DDR4 RAM",
+        "512GB NVMe SSD",
+        "15.6\" FHD IPS Display",
+        "Windows 11 Pro"
+      ],
+      "warranty": "25-day replacement warranty with optional extended AMC.",
+      "returnPolicy": "Returns accepted within 7 days for manufacturing defects.",
+      "shipping": "Ships across India within 4-6 business days.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1481277542470-605612bd2d61?auto=format&fit=crop&w=900&q=80",
+          "alt": "HP ProBook laptop open on desk",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "id": "dell-latitude-5430",
+      "slug": "dell-latitude-5430",
+      "name": "Dell Latitude 5430",
+      "categoryId": "laptops",
+      "brand": "Dell",
+      "condition": "Open Box",
+      "badge": "Open Box",
+      "price": 67999,
+      "currency": "INR",
+      "priceLabel": "Buy Now",
+      "availability": "Limited Stock",
+      "shortDescription": "Portable powerhouse with vPro security and premium build quality.",
+      "specs": [
+        "Intel Core i7-1265U",
+        "16GB LPDDR5 RAM",
+        "512GB NVMe SSD",
+        "14\" FHD+ Display",
+        "Windows 11 Pro"
+      ],
+      "warranty": "Original brand warranty with Integrated IT Solution assistance.",
+      "returnPolicy": "Returns accepted within 7 days for unopened units.",
+      "shipping": "Dispatched in 48 hours with insured delivery.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1512499617640-c2f999098c01?auto=format&fit=crop&w=900&q=80",
+          "alt": "Dell laptop on a table",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "id": "lenovo-thinkcentre-m720",
+      "slug": "lenovo-thinkcentre-m720",
+      "name": "Lenovo ThinkCentre M720 Tower",
+      "categoryId": "desktops",
+      "brand": "Lenovo",
+      "condition": "Refurbished",
+      "badge": "Refurbished",
+      "price": 42999,
+      "currency": "INR",
+      "priceLabel": "Request Quote",
+      "availability": "Built to Order",
+      "shortDescription": "Enterprise-ready tower with tool-less design and robust security.",
+      "specs": [
+        "Intel Core i7-9700",
+        "16GB DDR4 RAM",
+        "1TB HDD + 256GB SSD",
+        "Intel UHD Graphics 630",
+        "Windows 10 Pro"
+      ],
+      "warranty": "25-day replacement warranty plus onsite support options.",
+      "returnPolicy": "Returns accepted for DOA within 7 days.",
+      "shipping": "Ships within 5-7 business days with secure packaging.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?auto=format&fit=crop&w=900&q=80",
+          "alt": "Desktop tower with monitor and keyboard",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "id": "custom-workstation-z2",
+      "slug": "custom-workstation-z2",
+      "name": "Custom Workstation Z2",
+      "categoryId": "desktops",
+      "brand": "Integrated IT Solution",
+      "condition": "New",
+      "badge": "New",
+      "price": 98999,
+      "currency": "INR",
+      "priceLabel": "Request Quote",
+      "availability": "In Stock",
+      "shortDescription": "Graphics-ready desktop engineered for CAD and 3D workloads.",
+      "specs": [
+        "Intel Core i9-13900K",
+        "32GB DDR5 RAM",
+        "1TB NVMe SSD",
+        "NVIDIA RTX 4070 12GB",
+        "Windows 11 Pro"
+      ],
+      "warranty": "1-year manufacturer warranty with on-call support.",
+      "returnPolicy": "Return within 7 days for component issues.",
+      "shipping": "Insured shipping pan-India within 4 days.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+          "alt": "High performance desktop",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "id": "lg-ultrafine-27",
+      "slug": "lg-ultrafine-27",
+      "name": "LG UltraFine 27-Inch 4K",
+      "categoryId": "monitors",
+      "brand": "LG",
+      "condition": "New",
+      "badge": "New",
+      "price": 49999,
+      "currency": "INR",
+      "priceLabel": "Buy Now",
+      "availability": "In Stock",
+      "shortDescription": "4K IPS display with Thunderbolt connectivity for creative pros.",
+      "specs": [
+        "27\" 4K UHD (3840x2160)",
+        "IPS Panel",
+        "DisplayHDR 400",
+        "Thunderbolt 3",
+        "99% DCI-P3"
+      ],
+      "warranty": "3-year brand warranty.",
+      "returnPolicy": "Returns accepted within 10 days for panel defects.",
+      "shipping": "Ships safely packed with shock protection.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1580894908361-967195033215?auto=format&fit=crop&w=900&q=80",
+          "alt": "4K monitor on desk",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "id": "dell-ultrasharp-u3421we",
+      "slug": "dell-ultrasharp-u3421we",
+      "name": "Dell UltraSharp U3421WE",
+      "categoryId": "monitors",
+      "brand": "Dell",
+      "condition": "Open Box",
+      "badge": "Open Box",
+      "price": 0,
+      "currency": "INR",
+      "priceLabel": "Request Quote",
+      "availability": "Limited Stock",
+      "shortDescription": "Curved ultra-wide monitor for multitasking and immersive views.",
+      "specs": [
+        "34.1\" WQHD (3440x1440)",
+        "IPS Panel",
+        "USB-C Hub",
+        "KVM Switch",
+        "99% sRGB"
+      ],
+      "warranty": "Brand warranty with panel replacement assurance.",
+      "returnPolicy": "Returns for dead pixels within 10 days.",
+      "shipping": "Ships within 3-5 business days.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1579721840640-3a4d5c0b76c1?auto=format&fit=crop&w=900&q=80",
+          "alt": "Ultra-wide curved monitor",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "id": "dell-poweredge-r540",
+      "slug": "dell-poweredge-r540",
+      "name": "Dell PowerEdge R540",
+      "categoryId": "servers",
+      "brand": "Dell",
+      "condition": "Refurbished",
+      "badge": "Refurbished",
+      "price": 0,
+      "currency": "INR",
+      "priceLabel": "Request Quote",
+      "availability": "Configurable",
+      "shortDescription": "2U rack server built for balanced performance and scalability.",
+      "specs": [
+        "Dual Intel Xeon Silver 4210",
+        "64GB DDR4 ECC RAM",
+        "4 x 1.2TB SAS 10K",
+        "PERC H740P RAID",
+        "iDRAC9 Enterprise"
+      ],
+      "warranty": "90-day warranty with optional onsite support.",
+      "returnPolicy": "Replacement for hardware faults within 15 days.",
+      "shipping": "Custom-packed and delivered with white-glove logistics.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1580894894513-541e068a3ec4?auto=format&fit=crop&w=900&q=80",
+          "alt": "Server rack in data center",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "id": "hp-proliant-dl380-gen10",
+      "slug": "hp-proliant-dl380-gen10",
+      "name": "HPE ProLiant DL380 Gen10",
+      "categoryId": "servers",
+      "brand": "HPE",
+      "condition": "Refurbished",
+      "badge": "Refurbished",
+      "price": 0,
+      "currency": "INR",
+      "priceLabel": "Request Quote",
+      "availability": "Pre-Configured",
+      "shortDescription": "Versatile 2U server ideal for virtualization and analytics.",
+      "specs": [
+        "Dual Intel Xeon Gold 5218",
+        "96GB DDR4 ECC RAM",
+        "4 x 1.92TB SSD",
+        "Smart Array P408i-a",
+        "iLO 5 Advanced"
+      ],
+      "warranty": "1-year warranty with proactive monitoring options.",
+      "returnPolicy": "Returns accepted for DOA within 10 days.",
+      "shipping": "Delivered with rack-mount kit and documentation.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?auto=format&fit=crop&w=900&q=80",
+          "alt": "Rack server hardware",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "id": "hp-eliteone-800-g6",
+      "slug": "hp-eliteone-800-g6",
+      "name": "HP EliteOne 800 G6",
+      "categoryId": "all-in-ones",
+      "brand": "HP",
+      "condition": "Open Box",
+      "badge": "Open Box",
+      "price": 72999,
+      "currency": "INR",
+      "priceLabel": "Buy Now",
+      "availability": "In Stock",
+      "shortDescription": "Premium 23.8-inch all-in-one with integrated privacy features.",
+      "specs": [
+        "Intel Core i7-10700",
+        "16GB DDR4 RAM",
+        "512GB NVMe SSD",
+        "23.8\" FHD Display",
+        "Windows 11 Pro"
+      ],
+      "warranty": "Original warranty balance with onsite support.",
+      "returnPolicy": "Returns accepted within 7 days for quality issues.",
+      "shipping": "Ships with wireless keyboard and mouse kit.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1555617981-dac3880eac6f?auto=format&fit=crop&w=900&q=80",
+          "alt": "All-in-one desktop on table",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "id": "lenovo-ideacentre-a540",
+      "slug": "lenovo-ideacentre-a540",
+      "name": "Lenovo IdeaCentre A540",
+      "categoryId": "all-in-ones",
+      "brand": "Lenovo",
+      "condition": "Refurbished",
+      "badge": "Refurbished",
+      "price": 59999,
+      "currency": "INR",
+      "priceLabel": "Buy Now",
+      "availability": "In Stock",
+      "shortDescription": "Space-saving all-in-one with wireless charging stand.",
+      "specs": [
+        "Intel Core i5-10400T",
+        "16GB DDR4 RAM",
+        "512GB SSD",
+        "23.8\" FHD Touch",
+        "Windows 11 Home"
+      ],
+      "warranty": "25-day warranty with remote support.",
+      "returnPolicy": "Returns within 7 days for functional issues.",
+      "shipping": "Pan-India delivery within 6 business days.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?auto=format&fit=crop&w=900&q=80",
+          "alt": "All-in-one PC with wireless charger",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "id": "logitech-mx-master-3s",
+      "slug": "logitech-mx-master-3s",
+      "name": "Logitech MX Master 3S",
+      "categoryId": "accessories",
+      "brand": "Logitech",
+      "condition": "New",
+      "badge": "New",
+      "price": 9999,
+      "currency": "INR",
+      "priceLabel": "Buy Now",
+      "availability": "In Stock",
+      "shortDescription": "Advanced ergonomic mouse with MagSpeed scrolling.",
+      "specs": [
+        "8K DPI sensor",
+        "Bluetooth & Logi Bolt",
+        "USB-C Quick Charge",
+        "Multi-device pairing",
+        "Silent Clicks"
+      ],
+      "warranty": "1-year manufacturer warranty with doorstep replacement.",
+      "returnPolicy": "Return within 7 days for manufacturing defects.",
+      "shipping": "Dispatched same day across metros.",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?auto=format&fit=crop&w=900&q=80",
+          "alt": "Wireless mouse on desk",
+          "width": 900,
+          "height": 600
+        }
+      ]
+    }
+  ]
+}
